@@ -37,9 +37,9 @@
         <label for="option-select">Choose an option : </label><br>
         <select name="option-select"  id="option-select">
             <option name ="choose" value ="option">--Please choose an option--</option>
-            <option name ="choose" value ="Banane">Banane</option>
-            <option name ="choose" value="Banane1">Banane1</option>
-            <option name ="choose" value="Banane2">Banane2</option>
+            <option name ="choose" value ="Banane">Car</option>
+            <option name ="choose" value="Banane1">Bike</option>
+            <option name ="choose" value="Banane2">Truck</option>
         </select>
         <div>
             <label  for="message">Message :</label><br>
